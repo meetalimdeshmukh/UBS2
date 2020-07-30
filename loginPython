@@ -1,0 +1,5 @@
+name=$(print("Enter your name"))
+if name == "Meetali" :
+  print ("Hello World)
+else:
+  print ("cannot login")
